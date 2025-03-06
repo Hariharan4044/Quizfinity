@@ -2,7 +2,7 @@ const quizData = [
     {
         question: "Which language runs in a web browser?",
         a: "Java",
-        b: "C",
+        b: "C++",
         c: "Python",
         d: "JavaScript",
         correct: "d",
@@ -27,7 +27,7 @@ const quizData = [
         question: "What year was JavaScript launched?",
         a: "1991",
         b: "1995",
-        c: "1994",
+        c: "1993",
         d: "none of the above",
         correct: "b",
     },
