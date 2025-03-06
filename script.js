@@ -27,7 +27,7 @@ const quizData = [
         question: "What year was JavaScript launched?",
         a: "1991",
         b: "1995",
-        c: "1993",
+        c: "1990",
         d: "none of the above",
         correct: "b",
     },
