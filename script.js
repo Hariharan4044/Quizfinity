@@ -2,7 +2,7 @@ const quizData = [
     {
         question: "Which language runs in a web browser?",
         a: "Java",
-        b: "C++",
+        b: "C#",
         c: "C",
         d: "JavaScript",
         correct: "d",
@@ -11,7 +11,7 @@ const quizData = [
         question: "What does CSS stand for?",
         a: "Central Style Sheets",
         b: "Cascading Style Sheets",
-        c: "Cascading Simple Sheets",
+        c: "Cascading simple Sheets",
         d: "Central Simple Sheets",
         correct: "b",
     },
