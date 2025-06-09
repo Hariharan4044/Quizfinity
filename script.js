@@ -12,7 +12,7 @@ const quizData = [
         a: "Central Style Sheets",
         b: "Cascading Style Sheets",
         c: "Cascading simple Sheets",
-        d: "Central Simple Sheets",
+        d: "Central Simple Sheet",
         correct: "b",
     },
     {
